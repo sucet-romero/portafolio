@@ -50,18 +50,20 @@ Habilidades tecnológicas utilizadas:  Google sheets, prueba de errores en Jira,
       </div>
 
 .</span>
+ <div>
+          <strong>Pruebas API Sprint 4 | QA Engineer Triple Ten (2025)</strong><br />
+          <span style="color:#9fb3c8;font-size:13px;">
+          <br>●	Cree y envié solicitudes a la API a través de Postman, trabajé con kits, endpoint POST, GET, DELETE.<br />
+<br>●	Desarrollé pruebas positivas y negativas e informé de los errores en JIRA●	Desarrollé pruebas positivas y negativas e informé de los errores en JIRA<br />
+<br>●	Operé clases de equivalencia para los parámetros que se pasan en la solicitudes API<br />
+<br>●	Especifiqué el método HTTP para los encabezados de informes de errores.<br />
+<br>●	Ahora tengo el conocimiento para probar aplicaciones web, tanto en front-end como en back-end<br />
+.</span>
+   Habilidades tecnológicas utilizadas:  Google sheets, prueba de errores en Jira, estructura HTTP, formato JSON, REST, técnicas de diseño para API, DevTools
+        </div>
         </div>
         <a href="https://github.com/tu_usuario/proyecto-a" style="color:#06b6d4;font-weight:700;text-decoration:none;">Ver</a>
       </div>
-
-      <div style="display:flex;justify-content:space-between;align-items:center;background:rgba(255,255,255,0.02);padding:8px;border-radius:8px;">
-        <div>
-          <strong>Proyecto B</strong><br />
-          <span style="color:#9fb3c8;font-size:13px;">Descripción corta del proyecto B.</span>
-        </div>
-        <a href="https://github.com/tu_usuario/proyecto-b" style="color:#06b6d4;font-weight:700;text-decoration:none;">Ver</a>
-      </div>
-    </div>
   </div>
 
   <div style="margin-top:12px;">
